@@ -8,7 +8,7 @@ id                                   type       hit    abstained   grounded   ok
   abstain_out_of_domain                abstain    None   ✓           None       ✓
   q5_engineers_thumb_counterfeit_chain answerable ✓      ✗           ✓          ✓
   q6_blue_carbuncle_goose_trace        answerable ✓      ✗           ✓          ✓
-  q7_dhurandhar_abstain                abstain    None   ✓           None       ✓
+  abstain_dhurandhar                   abstain    None   ✓           None       ✓
   --------------------------------------------------------------------------------
 
   Retrieval hit rate    : 100.0%   (6 answerable questions)
